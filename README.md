@@ -1,37 +1,32 @@
 ## Bienvenidos a mi priemra pagina con Git en HMIS
 
-You can use the [editor on GitHub](https://github.com/MM-Cosmin/paginaGit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Puede usar el editor en GitHub para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cuando te comprometas con este repositorio, GitHub Pages ejecutará Jekyll para reconstruir las páginas de tu sitio, a partir del contenido de tus archivos de Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida
 
 ```markdown
-Syntax highlighted code block
+Sintaxis del bloque de código resaltado
 
-# Header 1
-## Header 2
-### Header 3
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
-- Bulleted
-- List
+1. Número
+2. Lista
 
-1. Numbered
-2. List
+**Negrita** and Cursiva and `Código` texto
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Enlace](url) y ![Imagen](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MM-Cosmin/paginaGit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+El sitio de Pages usará el diseño y los estilos del tema Jekyll que ha seleccionado en su [configuración del repositorio] (https://github.com/MM-Cosmin/paginaGit/settings). El nombre de este tema se guarda en el archivo de configuración Jekyll `_config.yml`.
 
-### Support or Contact
+### Soporte or Contacto
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+¿Tienes problemas con Pages? Consulte nuestra documentación o póngase en contacto con el servicio de asistencia y le ayudaremos a solucionarlo.
