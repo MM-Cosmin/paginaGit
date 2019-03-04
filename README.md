@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi priemra pagina con Git en HMIS
 
 You can use the [editor on GitHub](https://github.com/MM-Cosmin/paginaGit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
